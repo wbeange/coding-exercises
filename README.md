@@ -1,4 +1,4 @@
-codeeval-solutions
+coding-exercises
 ==================
 
-my attempts on codeeval.com
+coding practise.
