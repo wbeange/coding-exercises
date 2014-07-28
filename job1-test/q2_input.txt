@@ -1,0 +1,5 @@
+triangle,1
+square,2
+pentagon,3
+circle,4
+square,3.5
